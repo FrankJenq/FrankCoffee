@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FrankCoffee</string>
+    <string name="frank_coffee">Frank Coffee</string>
+    <string name="welcome">Welcome to Frank Coffee!</string>
+    <string name="telephone">telephone : (+86) 12345678</string>
+    <string name="address">address : No.9, Ln. 2, Sec.1, Bade Rd.</string>
+    <string name="description">As a highly praised coffee shop, we offer the best quality coffee, and here are also rich flavors available for you to choose.</string>
+</resources>
